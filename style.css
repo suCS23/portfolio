@@ -8,7 +8,7 @@ body {
     margin-bottom: 82px;
 }
 
-@media (min-width: 576px) and (max-width: 1198.98px) {
+@media (max-width: 1198.98px) {
   #photo-temp {
     margin-top: 30px;
     padding: 0px;
@@ -46,7 +46,7 @@ body {
     background-color: #b3b3b3;
 }
 
-@media (min-width: 576px) and (max-width: 1198.98px) {
+@media (max-width: 1198.98px) {
   #photo-title {
     right: 143px;
   }

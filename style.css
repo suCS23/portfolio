@@ -3,6 +3,7 @@ body {
 }
 
 #photo-temp{
+    text-align: center;
     position: relative;
     margin-bottom: 82px;
 }

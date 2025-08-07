@@ -46,6 +46,13 @@ body {
     background-color: #b3b3b3;
 }
 
+@media (min-width: 1000px) and (max-width: 1190px){
+    #photo-title{
+        left: 143px;
+    }
+}
+
+
 #photo-statement{
     position: relative;
     bottom: 10px;

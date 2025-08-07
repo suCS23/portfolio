@@ -46,9 +46,15 @@ body {
     background-color: #b3b3b3;
 }
 
-@media (min-width: 1000px) and (max-width: 1190px){
+@media (min-width: 991px) and (max-width: 1190px){
     #photo-title{
         left: 143px;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 990px){
+    #photo-title{
+        left: 23px;
     }
 }
 

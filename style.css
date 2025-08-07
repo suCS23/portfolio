@@ -46,18 +46,6 @@ body {
     background-color: #b3b3b3;
 }
 
-@media (max-width: 1198.98px) {
-  #photo-title {
-    right: 143px;
-  }
-}
-
-@media  (max-width: 950px) {
-  #photo-title {
-    left: 22px;
-  }
-}
-
 #photo-statement{
     position: relative;
     bottom: 10px;

@@ -52,6 +52,12 @@ body {
   }
 }
 
+@media  (max-width: 950px) {
+  #photo-title {
+    left: 22px;
+  }
+}
+
 #photo-statement{
     position: relative;
     bottom: 10px;

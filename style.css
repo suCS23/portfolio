@@ -1,0 +1,128 @@
+body {
+    background-color: #2F3043;
+}
+
+#photo-temp {
+    margin-left: 82px;
+    margin-top: 82px;
+    padding: 0px;
+}
+
+#photo {
+    border-style: solid;
+    border-color: #b3b3b3;
+    border-width: 20px;
+    border-radius: 40px;
+}
+
+#photo-title{
+    position: relative;
+    bottom: 85px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-style: solid;
+    border-color: #b3b3b3;
+    border-width: 20px;
+    font-size: 32px;
+    font-family: "Poetsen One";
+    text-align: center;
+    color: #2F3043 ;
+    background-color: #b3b3b3;
+}
+
+#photo-statement{
+    position: relative;
+    bottom: 10px;
+    font-size: 38px;
+    font-family: "Poetsen One";
+    text-align: center;
+    color: #b3b3b3 ;
+}
+
+#stuff {
+    text-align: center;
+    margin-top: 52px;
+    width: 550px;
+}
+
+#socials img{
+    margin: 8px; 
+}
+
+#header{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#header p {
+    color: #b3b3b3;
+    font-size: 64px;
+    font-family: "Lemon";
+}
+
+#status-temp {
+    width: 518px;
+    height: 144px;
+    background-color: #212236;
+    border-style: solid;
+    border-color: #BDC3C0;
+    border-radius: 16px;
+    border-width: 4px;
+    margin: auto;
+}
+
+#status-temp p {
+    font-size: 24px;
+    font-family: "Poetsen One";
+    color: #BDC3C0;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#status {
+    width: 463px;
+    height: 70px;
+    background-color: #BDC3C0;
+    border-radius: 6px;
+    margin: auto;
+    padding: 5px;
+}
+
+#status p {
+    font-size: 32px;
+    font-family: "Pompiere";
+    color: #2F3043;
+}
+
+#breaker{
+    display: block;
+    margin-bottom: 15px;
+}
+
+#bio{
+    margin: auto;
+    margin-top: 20px;
+    width: 550px;
+}
+
+#bio p {
+    display: inline;
+    color: #ffffff;
+    font-family: 'Mooli';
+    font-size: 20px;
+}
+
+#purple {
+    display: inline;
+    color: #afabdd;
+}
+
+#red {
+    display: inline;
+    color: #f09494;
+}
+
+#green {
+    display: inline;
+    color: #b7ddab;
+}

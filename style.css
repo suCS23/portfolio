@@ -2,6 +2,11 @@ body {
     background-color: #2F3043;
 }
 
+#photo-temp{
+    position: relative;
+    margin-bottom: 82px;
+}
+
 @media (min-width: 576px) and (max-width: 1198.98px) {
   #photo-temp {
     margin-top: 30px;
@@ -25,8 +30,9 @@ body {
 }
 
 #photo-title{
-    position: relative;
-    bottom: 85px;
+    position: absolute;
+    bottom: 0px;
+    width: 675px;
     border-bottom-right-radius: 40px;
     border-bottom-left-radius: 40px;
     border-style: solid;

@@ -2,25 +2,25 @@ body {
     background-color: #2F3043;
 }
 
-#photo-temp{
+#photo-temp {
     text-align: center;
     position: relative;
     margin-bottom: 82px;
 }
 
 @media (max-width: 1198.98px) {
-  #photo-temp {
-    margin-top: 30px;
-    padding: 0px;
-  }
+    #photo-temp {
+        margin-top: 30px;
+        padding: 0px;
+    }
 }
 
 @media (min-width: 1200px) {
-  #photo-temp {
-    margin-left: 82px;
-    margin-top: 82px;
-    padding: 0px;
-  }
+    #photo-temp {
+        margin-left: 82px;
+        margin-top: 82px;
+        padding: 0px;
+    }
 }
 
 #photo {
@@ -30,7 +30,7 @@ body {
     border-radius: 40px;
 }
 
-#photo-title{
+#photo-title {
     position: absolute;
     bottom: 0px;
     width: 675px;
@@ -42,30 +42,36 @@ body {
     font-size: 32px;
     font-family: "Poetsen One";
     text-align: center;
-    color: #2F3043 ;
+    color: #2F3043;
     background-color: #b3b3b3;
 }
 
-@media (min-width: 991px) and (max-width: 1190px){
-    #photo-title{
+@media (min-width: 991px) and (max-width: 1190px) {
+    #photo-title {
         left: 143px;
     }
 }
 
-@media (min-width: 730px) and (max-width: 990px){
-    #photo-title{
+@media (min-width: 730px) and (max-width: 990px) {
+    #photo-title {
         left: 23px;
     }
 }
 
 
-#photo-statement{
+#photo-statement {
     position: relative;
     bottom: 10px;
     font-size: 38px;
     font-family: "Poetsen One";
     text-align: center;
-    color: #b3b3b3 ;
+    color: #b3b3b3;
+}
+
+@media (max-width: 1399px) {
+    #photo-statement {
+        margin-top: 20px;
+    }
 }
 
 #stuff {
@@ -74,11 +80,11 @@ body {
     width: 550px;
 }
 
-#socials img{
-    margin: 8px; 
+#socials img {
+    margin: 8px;
 }
 
-#header{
+#header {
     margin-top: 10px;
     margin-bottom: 30px;
 }
@@ -98,6 +104,7 @@ body {
     border-radius: 16px;
     border-width: 4px;
     margin: auto;
+    margin-bottom: 40px;
 }
 
 #status-temp p {
@@ -123,12 +130,12 @@ body {
     color: #2F3043;
 }
 
-#breaker{
+#breaker {
     display: block;
-    margin-bottom: 15px;
+    margin-bottom: 18px;
 }
 
-#bio{
+#bio {
     margin: auto;
     margin-top: 20px;
     width: 550px;

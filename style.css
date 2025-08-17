@@ -72,6 +72,14 @@ body {
     #photo-statement {
         margin-top: 20px;
     }
+
+    #bio {
+        width: 600px;
+    }
+
+    #bio p {
+        font-size: 22px;
+    }
 }
 
 #stuff {

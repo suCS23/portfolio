@@ -72,14 +72,6 @@ body {
     #photo-statement {
         margin-top: 20px;
     }
-
-    #bio {
-        width: 600px;
-    }
-
-    #bio p {
-        font-size: 22px;
-    }
 }
 
 #stuff {
@@ -149,11 +141,23 @@ body {
     width: 550px;
 }
 
+@media (max-width : 1399px) {
+    #bio {
+        width: 700px;
+    }
+}
+
 #bio p {
     display: inline;
     color: #ffffff;
     font-family: 'Mooli';
     font-size: 20px;
+}
+
+@media (max-width : 1399px) {
+    #bio p {
+        font-size: 23px;
+    }
 }
 
 #purple {

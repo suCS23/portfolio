@@ -130,6 +130,12 @@ body {
     color: #2F3043;
 }
 
+@media (max-width : 1399px) {
+    #status p {
+        font-size: 37px;
+    }
+}
+
 #breaker {
     display: block;
     margin-bottom: 18px;
@@ -156,7 +162,7 @@ body {
 
 @media (max-width : 1399px) {
     #bio p {
-        font-size: 23px;
+        font-size: 25px;
     }
 }
 
